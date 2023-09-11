@@ -11,6 +11,7 @@
 		DC10773E2AAF5B9100AA3FC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC10773D2AAF5B9100AA3FC9 /* ContentView.swift */; };
 		DC1077402AAF5B9200AA3FC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC10773F2AAF5B9200AA3FC9 /* Assets.xcassets */; };
 		DC1077432AAF5B9200AA3FC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC1077422AAF5B9200AA3FC9 /* Preview Assets.xcassets */; };
+		DC10774A2AAF5F0500AA3FC9 /* OnBoardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC1077492AAF5F0500AA3FC9 /* OnBoardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DC10773D2AAF5B9100AA3FC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DC10773F2AAF5B9200AA3FC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC1077422AAF5B9200AA3FC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DC1077492AAF5F0500AA3FC9 /* OnBoardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DC10773B2AAF5B9100AA3FC9 /* IntroToSwfitUiApp.swift */,
 				DC10773D2AAF5B9100AA3FC9 /* ContentView.swift */,
+				DC1077492AAF5F0500AA3FC9 /* OnBoardingView.swift */,
 				DC10773F2AAF5B9200AA3FC9 /* Assets.xcassets */,
 				DC1077412AAF5B9200AA3FC9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC10774A2AAF5F0500AA3FC9 /* OnBoardingView.swift in Sources */,
 				DC10773E2AAF5B9100AA3FC9 /* ContentView.swift in Sources */,
 				DC10773C2AAF5B9100AA3FC9 /* IntroToSwfitUiApp.swift in Sources */,
 			);

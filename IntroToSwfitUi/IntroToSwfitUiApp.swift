@@ -11,7 +11,8 @@ import SwiftUI
 struct IntroToSwfitUiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          OnBoardingView()
+            
         }
     }
 }
